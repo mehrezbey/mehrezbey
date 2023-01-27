@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehrez Bey
 - 👀 I’m interested in developping apps
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me mahrezbey@gmail.com
 
 <!---
