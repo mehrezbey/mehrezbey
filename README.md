@@ -1,9 +1,11 @@
 
- <head><style>
+ <head>
+ <style>
   h1{
   color:red;
   }
-  </style> </head>
+  </style>
+</head>
   <body>
   - 👋 Hi, I’m Mehrez Bey
 - 👀 I’m interested in developping apps
